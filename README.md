@@ -1,4 +1,4 @@
-# ViMa
+# ViMa - Open Source General Ledger & Advance Management System 
 Accounting App Module GL &amp; Advance Management
 
 Module yg akan tersedia dalam repo ini adalah :
@@ -40,7 +40,7 @@ For sponsoring this App, plese selected amount to sponsorship for Maintenance, S
 # Secure
 If you discover a security vulnerability within this app, please send an e-mail to  [secure@vimasolusi.com](mailto:secure@vimasolusi.com). All security vulnerabilities will be promptly addressed.
 
-# Term & Condition
-
 # Code of Conduct
 
+# Conntributor
+Thanks goes to all of these wonderful people (emoji key) who have helped ViMa get this far:
