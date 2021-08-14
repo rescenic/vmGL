@@ -30,3 +30,11 @@ d. Advance Reporting<br>
 # Why?
 Pengalaman kerja di kontraktor yang mana rata-rata bagian keuangan itu adalah bagian paling mudah di salahkan dalam hal pencatatan, dr sini alur di ubah dan PIC terkait pengajuan lah yg harus menyelesaikan laporannya dan posting ke akunting secara otomatis setelah di buat laporan, tentunya ada filter dari pelaporan tersebut, apakah laporannya bs di terima semua atau tidak.
 
+# Policy
+
+# Support
+
+# Term & Condition
+
+# Code of Conduct
+
