@@ -34,6 +34,12 @@ Pengalaman kerja di kontraktor yang mana rata-rata bagian keuangan itu adalah ba
 
 # Support
 
+# Sponsor
+For sponsoring this App, plese selected amount to sponsorship for Maintenance, Server Build, Internet Connection etc [Paypal page](https://paypal.me/vimasol).
+
+# Secure
+If you discover a security vulnerability within this app, please send an e-mail to  [secure@vimasolusi.com](mailto:secure@vimasolusi.com). All security vulnerabilities will be promptly addressed.
+
 # Term & Condition
 
 # Code of Conduct
