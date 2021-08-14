@@ -1,4 +1,4 @@
-# vmGL
+# ViMa
 Accounting App Module GL &amp; Advance Management
 
 Module yg akan tersedia dalam repo ini adalah :
