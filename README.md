@@ -23,7 +23,7 @@ PostgreSQL
 
 Aplikasi ini ditujukan supaya Indonesia mempunyai ERP yang dapat dibanggakan dan memberdayakan sumber daya dan potensi anak-anak muda Indonesia.<br>
 
-# Getting started with Odoo
+# Getting started with ViMa
 -------------------------
 
 For a standard installation please follow the <a href="http://vimasolusi.com/documentation/2.1/administration/install.html">Setup instructions</a>
