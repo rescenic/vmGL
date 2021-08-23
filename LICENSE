@@ -6,7 +6,7 @@ Odoo is published under the GNU LESSER GENERAL PUBLIC LICENSE, Version 3
 permissions on top of the GPL, the text of the GPL is included at the
 bottom as well.
 
-Some external libraries and contributions bundled with Vima Solusi may be published
+Some external libraries and contributions bundled with ViMa may be published
 under other GPL-compatible licenses. For these, please refer to the relevant
 source files and/or license files, in the source code tree.
 
@@ -20,6 +20,7 @@ source files and/or license files, in the source code tree.
  of this license document, but changing it is not allowed.
 
 https://github.com/vm0993/vmGL
+
   This version of the GNU Lesser General Public License incorporates
 the terms and conditions of version 3 of the GNU General Public
 License, supplemented by the additional permissions listed below.
