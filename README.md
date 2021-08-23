@@ -15,6 +15,10 @@ The Main ViMa Apps will be include :
 <a href="http://vimasolusi.com/page/manufacturing">Manufacturing</a>,
 <a href="http://vimasolusi.com/page/asset-management">Asset Management</a>
 
+# Database Requirement
+
+PostgreSQL
+
 # Tujuan
 
 Aplikasi ini ditujukan supaya Indonesia mempunyai ERP yang dapat dibanggakan dan memberdayakan sumber daya dan potensi anak-anak muda Indonesia.<br>
