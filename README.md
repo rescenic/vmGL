@@ -27,15 +27,6 @@ Sistem ini akan di sempurnakan lebih lanjut sampai integrasi dengan data di DJP 
 
 Adapun modul-modul terkait seperti Purchase, Sales, Inventory, HRM, Project Management, Job Order EMKL, Production Management, Warehouse Management, Asset Management masuk ke repository Private.
 
-# Sponsor
-Untuk mensponsori melalui :<br> 
-
-Jenius Cashtag : $vm0993.<br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D35RP9K)<br><br>
-Nama sponsor akan di cantumkan di website resmi dengan alamat  [Vima Solusi](https:/vimasolusi.com). untuk saat ini website blum uptime. <br>
-
-Perusahaan yang melakukan sponsorship pada pengembang akan mendapatkan fasilitas menggunakan full module yg tersedia dalam repo utama dan langsung terintegrasi dengan Mobile App nya. sponsorship ditujukan untuk pengembangan, pemeliharaan.<br><br>
-
 # Policy & Code of Conduct
 
 Dilarang menghilangkan nama pembuat aplikasi, dengan tujuan supaya user yang menggunakan tidak dirugikan. 
