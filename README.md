@@ -23,13 +23,13 @@ PostgreSQL
 
 Aplikasi ini ditujukan supaya Indonesia mempunyai ERP yang dapat dibanggakan dan memberdayakan sumber daya dan potensi anak-anak muda Indonesia.<br>
 
-Sistem ini akan di sempurnakan lebih lanjut sampai integrasi dengan data di DJP (Direktorat Jenderal Pajak) untuk saat ini dikarenakan terkendala dengan aturan, jadi masih belum begitu leluasa, untuk end point API dari DJP jika mengijinkan para developer untuk bisa mengintegrasikan sistemnya akan jauh lebih efisien saat pembuatan Faktur Pajak, Bukti Potong dll. Jika menggunakan pihak ketiga bisa dan gak ada masalah.
+# Getting started with Odoo
+-------------------------
 
-Adapun modul-modul terkait seperti Purchase, Sales, Inventory, HRM, Project Management, Job Order EMKL, Production Management, Warehouse Management, Asset Management masuk ke repository Private.
+For a standard installation please follow the <a href="http://vimasolusi.com/documentation/2.1/administration/install.html">Setup instructions</a>
+from the documentation.
 
-# Policy & Code of Conduct
-
-Dilarang menghilangkan nama pembuat aplikasi, dengan tujuan supaya user yang menggunakan tidak dirugikan. 
+To learn the software, we recommend the <a href="https://vimasolusi.com/slides">ViMa eLearning</a>, or <a href="https://vimasolusi.com/page/scale-up-business">Scale-up</a>. Developers can start with <a href="https://vimasolusi.com/documentation/2.1/developer/howtos.html">the developer tutorials</a>
 
 # Contributor
 
