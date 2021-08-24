@@ -1,5 +1,5 @@
 # NOTES
-Completed project will be upload after finish implementation.
+Completed project will be upload after finish implementation & website will be can be access contain all information may be in September 21, 2021 or soon.
 
 # ViMa
 ViMa is a suite of web based open source business apps.
