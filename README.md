@@ -21,6 +21,10 @@ The Main ViMa Apps will be include :
 
 PostgreSQL
 
+Must be add on server :
+wkhtmltopdf<br>
+imagick
+
 # Tujuan
 
 Aplikasi ini ditujukan supaya Indonesia mempunyai ERP yang dapat dibanggakan dan memberdayakan sumber daya dan potensi anak-anak muda Indonesia.<br>
