@@ -1,3 +1,5 @@
+# NOTES
+Completed project will be upload after finish implementation.
 
 # ViMa
 ViMa is a suite of web based open source business apps.
